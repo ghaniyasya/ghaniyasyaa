@@ -1,0 +1,29 @@
+body{ 
+	background-image:url(wallpaper.jpg); 
+	background-size:cover; 
+	background-attachment: scroll; 	
+} 
+h2{
+	margin: 37px 110px 15px 110px;
+	font-size: 35px;
+	font-family: cursive
+}
+img{
+	border: 5px groove #B3CEE5
+}
+p{
+	margin: 25px 100px 15px 100px;
+	font-size: 18px;
+	font-family: cursive
+}
+table{
+	margin:25px 100px 15px 100px;
+	font-family: monospace;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 27px;
+	padding-left: 10px
+}
+th, td {
+  padding: 11px;
+}
